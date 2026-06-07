@@ -1,0 +1,9 @@
+name: koa_sarcopenia
+base_condition: knee osteoarthritis
+comorbidity: sarcopenia
+search_terms:
+  - knee osteoarthritis
+  - acupuncture
+  - sarcopenia
+  - muscle loss
+

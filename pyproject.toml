@@ -1,0 +1,40 @@
+[build-system]
+requires = ["hatchling>=1.25.0"]
+build-backend = "hatchling.build"
+
+[project]
+name = "koa-biblio-toolkit"
+version = "0.1.0"
+description = "Reproducible KOA and acupuncture bibliometric pipeline."
+readme = "README.md"
+license = { text = "MIT" }
+requires-python = ">=3.10"
+dependencies = [
+  "matplotlib>=3.8",
+  "networkx>=3.2",
+  "pandas>=2.2",
+  "plotly>=5.22",
+  "pyyaml>=6.0",
+]
+
+[project.optional-dependencies]
+dev = [
+  "black>=24.4",
+  "pytest>=8.2",
+  "ruff>=0.5",
+]
+
+[project.scripts]
+koa-biblio-toolkit = "koa_biblio_toolkit.cli:main"
+
+[tool.black]
+line-length = 88
+target-version = ["py310"]
+
+[tool.ruff]
+line-length = 88
+target-version = "py310"
+
+[tool.ruff.lint]
+select = ["E", "F", "I", "B"]
+
