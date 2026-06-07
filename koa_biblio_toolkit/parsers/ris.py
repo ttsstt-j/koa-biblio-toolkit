@@ -20,10 +20,10 @@ LIST_FIELDS = {"authors", "keywords"}
 
 def _assign_field(record: dict[str, object], key: str, value: str) -> None:
     if key in LIST_FIELDS:
-        record.setdefault(key, [])
-        values = record[key]
-        if isinstance(values, list):
-            values.append(value)
+        values = record.setdefault(key, [])
+        if not isinstance(values, list):
+            raise TypeError(f"Expected list for field '{key}', got {type(values)!r}")
+        values.append(value)
         return
     record[key] = value
 
