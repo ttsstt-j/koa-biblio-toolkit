@@ -1,0 +1,9 @@
+name: koa_sleep_disorders
+base_condition: knee osteoarthritis
+comorbidity: sleep disorders
+search_terms:
+  - knee osteoarthritis
+  - acupuncture
+  - sleep disorders
+  - insomnia
+

@@ -1,0 +1,20 @@
+canonical_terms:
+  electroacupuncture:
+    - electro-acupuncture
+    - 电针
+  warm_needling:
+    - warm needle
+    - 温针灸
+  fire_needling:
+    - fire needle
+    - 火针
+  floating_needle:
+    - floating needle
+    - 浮针
+  abdominal_acupuncture:
+    - abdominal needle
+    - 腹针
+  moxibustion:
+    - moxa
+    - 艾灸
+
