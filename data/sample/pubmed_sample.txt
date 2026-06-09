@@ -1,0 +1,18 @@
+PMID- 90000001
+TI  - Anonymized KOA acupuncture pilot record
+FAU - Author, Delta
+FAU - Author, Epsilon
+OT  - knee osteoarthritis
+OT  - acupuncture
+DP  - 2024
+JT  - Synthetic Acupuncture Reports
+AB  - Fake anonymized PubMed-style record for KOA bibliometric pipeline demos.
+
+PMID- 90000002
+TI  - Simulated record on KOA and acupuncture adherence
+FAU - Author, Zeta
+OT  - adherence
+OT  - pain outcomes
+DP  - 2023
+JT  - Mock Clinical Metadata Journal
+AB  - Fake anonymized data intended only for testing and examples.

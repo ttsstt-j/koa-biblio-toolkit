@@ -1,0 +1,20 @@
+TY  - JOUR
+TI  - Acupuncture for knee osteoarthritis in anonymized cohort A
+AU  - Researcher, Alpha
+AU  - Researcher, Beta
+KW  - knee osteoarthritis
+KW  - acupuncture
+PY  - 2024
+JO  - Journal of Integrative KOA Studies
+AB  - Fake anonymized record describing KOA symptoms and acupuncture outcomes.
+ER  -
+
+TY  - JOUR
+TI  - Electroacupuncture and KOA pain relief in anonymized cohort B
+AU  - Researcher, Gamma
+KW  - electroacupuncture
+KW  - pain management
+PY  - 2023
+JO  - Simulated Musculoskeletal Research
+AB  - Fake anonymized record for reproducible parser testing.
+ER  -
