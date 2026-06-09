@@ -24,4 +24,10 @@ research, with first-class support for Chinese-language databases.
 python -m pip install -e ".[dev]"
 python -m pytest -q
 koa-biblio-toolkit templates
-```
+```## Roadmap
+
+- [ ] Add VOSviewer export support
+- [ ] Add Scopus parser scaffold
+- [ ] Add keyword clustering visualization
+- [ ] Add bibliometrix interoperability helpers
+- [ ] Add bilingual keyword normalization
