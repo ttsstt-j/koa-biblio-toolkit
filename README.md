@@ -1,5 +1,9 @@
 # koa-biblio-toolkit
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+![Python 3.10+](https://img.shields.io/badge/python-3.10%2B-blue)
+[![CI](https://github.com/ttsstt-j/koa-biblio-toolkit/actions/workflows/ci.yml/badge.svg)](https://github.com/ttsstt-j/koa-biblio-toolkit/actions/workflows/ci.yml)
+
 Reproducible bibliometric pipeline for Knee Osteoarthritis (KOA) and acupuncture
 research, with first-class support for Chinese-language databases.
 
